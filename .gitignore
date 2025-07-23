@@ -130,3 +130,6 @@ geckodriver.log
 *.njsproj
 *.sln
 *.sw?
+
+# Learning guide file
+tqsdk_learning_guide.txt
