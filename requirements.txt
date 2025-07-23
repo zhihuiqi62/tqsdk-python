@@ -1,0 +1,32 @@
+# user required
+certifi
+websockets>=8.1
+requests
+numpy
+aiohttp
+simplejson
+pyjwt
+psutil>=5.9.6
+shinny_structlog
+sgqlc
+filelock
+tqsdk_ctpse
+tqsdk_sm
+pandas>=1.1.0
+scipy
+packaging
+
+# non-user required(test, doc, etc.)
+selenium
+jieba
+Sphinx
+nbsphinx
+autodocsumm
+sphinx_rtd_theme
+sphinxcontrib-googleanalytics
+lz4
+memory_profiler
+pytest
+pytest-rerunfailures
+pytest-cov
+pytest-xdist
